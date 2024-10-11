@@ -1,4 +1,10 @@
-site_name: My Static Site
+site_name: 'Мой статичный сайт'  # Название сайта
 docs_dir: my_static_site
+nav:  # Настройка навигации
+  - Главная: index.md
+  - Обо мне: about/index.md
+  - Проекты: projects/index.md
+  - Блог: blog/index.md
+  - Контакты: contact/index.md
 theme:
-  name: material
+  name: material  # Тема оформления
