@@ -1,5 +1,4 @@
 site_name: My Static Site
 docs_dir: my_static_site
-site_url: https://artcherenkov.github.io/python-static-site/
 theme:
   name: material
