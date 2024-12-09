@@ -1,2 +1,9 @@
+---
+title: Контакты
+template: base.html
+---
+
 # Контакты
-Свяжитесь со мной по электронной почте example@example.com.
+
+- **Email**: <example@email.com>
+- **GitHub**: [Мой GitHub](https://github.com/username)
